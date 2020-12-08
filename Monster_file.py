@@ -25,5 +25,3 @@ class Troll(Monster):
         super().__init__('Troll', 2, 4, 7, 2, 0.05)
 
 
-test_monster = Troll()
-print(test_monster.allstats)
